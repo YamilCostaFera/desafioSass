@@ -76,7 +76,11 @@ section #div-fotos .titulos, aside .div-noticias .titulos {
 }
 
 footer .footer #datos {
-  margin-top: 20px;
+  margin-top: 30px;
+}
+footer .footer #datos ul li {
+  color: whitesmoke;
+  font-weight: bold;
 }
 footer .copy {
   background-image: linear-gradient(to right, #350435, white);
